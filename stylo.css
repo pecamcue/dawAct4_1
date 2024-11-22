@@ -1,0 +1,42 @@
+/* Estilo básico */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    background-color: #004080;
+    color: #fff;
+    padding: 20px 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    margin: 20px 0;
+    text-align: center;
+}
+
+img {
+    border: 2px solid #004080;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #004080;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0066cc;
+}
